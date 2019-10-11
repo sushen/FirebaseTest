@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98570309806",
+    "firebase_url": "https://fir-test-9238f.firebaseio.com",
+    "project_id": "fir-test-9238f",
+    "storage_bucket": "fir-test-9238f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98570309806:android:0e974b0d562faf1d411d3f",
+        "android_client_info": {
+          "package_name": "blog.biswas.video.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98570309806-a6amervs7253ucl5dbfkhcrv0nun37gj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blog.biswas.video.firebasetest",
+            "certificate_hash": "ef9bd4b7b1c31092880d06de6269bed66d1690f9"
+          }
+        },
+        {
+          "client_id": "98570309806-27rled5jvvn1nmb5i1log7be9rj8duq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vOu9TrlePQll9quBKydY4nvHslj_7rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98570309806-27rled5jvvn1nmb5i1log7be9rj8duq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
