@@ -27,7 +27,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this,R.layout.activity_login);
-
+        firebaseAuth = FirebaseAuth.getInstance();
         binding.tvNoAccount.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -55,7 +55,7 @@ public class Login extends AppCompatActivity {
                     Log.i("registrationLog","fail To Login");
                 }
             }
-        })
+        });
 
     }
 }
